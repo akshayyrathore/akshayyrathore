@@ -1,7 +1,7 @@
 <div align="center">
 
-# ✨ Akshay Rathore ✨  
-### 🚀 AI • Computer Vision • AR/VR • MLOps
+#  Akshay Rathore   
+### AI • Computer Vision • AR/VR • MLOps
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;AI+%26+Computer+Vision+Engineer;From+Research+to+Production;Future-Ready+Tech+Explorer" />
 
